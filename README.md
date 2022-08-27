@@ -15,7 +15,7 @@
   <div style="display: flex; align-items: flex-start;">
   <br />
 <h1>𝑵𝒐𝒅𝒆𝒔𝑩𝒍𝒐𝒄𝒌𝒔</h1>
-Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powered by professional validators with best uptime and very low commissions rates for our clients
+<h3>Created in 2022, we are providing highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powered by professional validators with best uptime and very low commissions rates for our clients. We are validator in different blockchains as Ethereum, Cosmos, Polkadot and running following testnets and mainnets:</h3>
 <br />
 <br />
   </div>
