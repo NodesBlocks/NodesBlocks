@@ -13,6 +13,11 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=NodesBlocks&show_icons=true&theme=nightowl"/>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NodesBlocks&langs_count=8&layout=nightowl"/>
+&nbsp
+&nbsp
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com?user=NodesBlocks&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
+&nbsp
+&nbsp
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NodesBlocks&layout=compact&theme=nightowl"/>
   </div>
 </div>
