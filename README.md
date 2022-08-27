@@ -15,6 +15,9 @@
   <div style="display: flex; align-items: flex-start;">
   <br />
 <h1>𝑵𝒐𝒅𝒆𝒔𝑩𝒍𝒐𝒄𝒌𝒔</h1>
+<h5><i>B E S T &nbsp; B L O C K S &nbsp; O R &nbsp; N O T H I N G</h5></i>
+<br />
+<br />
 <h3>Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powered by professional validators with best uptime and very low commissions rates for our clients. We are validator in different blockchains as Ethereum, Cosmos, Polkadot and running following testnets and mainnets:</h3>
 <br />
 <br />
