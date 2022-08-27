@@ -11,8 +11,8 @@
 
 
 <div>
-    <img align=top align=center src="https://github-readme-stats.vercel.app/api?username=NodesBlocks&show_icons=true&theme=nightow"/>
-    <img align=top align=center src="https://github-readme-stats.vercel.app/api?username=NodesBlocks&show_icons=true&theme=nightowl"/>
+    <img align="top" align="center" src="https://github-readme-stats.vercel.app/api?username=NodesBlocks&show_icons=true&theme=nightow"/>
+    <img align="top" align="center" src="https://github-readme-stats.vercel.app/api?username=NodesBlocks&show_icons=true&theme=nightowl"/>
 <div>
 
 
