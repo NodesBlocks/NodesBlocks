@@ -12,9 +12,14 @@
   <h3><b><i>VALIDATOR PROFILE INTRODUCTION</b></i></h3>
     <img align="top" src="https://komarev.com/ghpvc/?username=NodesBlocks&color=blueviolet"/>
 <br />
-<br />
+  </div>
+</div>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <br />
 <h1>𝑵𝒐𝒅𝒆𝒔𝑩𝒍𝒐𝒄𝒌𝒔</h1>
-<h3>𝑩𝒍𝒐𝒄𝒌𝒄𝒉𝒂𝒊𝒏𝒔 𝑵𝒐𝒅𝒆𝒔 𝑽𝒂𝒍𝒊𝒅𝒂𝒕𝒐𝒓𝒔 𝑷𝒓𝒊𝒗𝒂𝒕𝒆 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚</h3>
+<h4>𝑯𝒊𝒈𝒉𝒍𝒚 𝒔𝒆𝒄𝒖𝒓𝒆𝒅 & 24/7 𝒎𝒐𝒏𝒊𝒕𝒐𝒓𝒆𝒅 𝒏𝒐𝒏-𝒄𝒖𝒔𝒕𝒐𝒅𝒊𝒂𝒍 𝒔𝒕𝒂𝒌𝒊𝒏𝒈 𝒔𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆 𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝒑𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝒗𝒂𝒍𝒊𝒅𝒂𝒕𝒐𝒓𝒔 <br /><br /> 𝑩𝒍𝒐𝒄𝒌𝒄𝒉𝒂𝒊𝒏𝒔 𝑵𝒐𝒅𝒆𝒔 𝑽𝒂𝒍𝒊𝒅𝒂𝒕𝒐𝒓𝒔 𝑷𝒓𝒊𝒗𝒂𝒕𝒆 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚</h4>
 <br />
   </div>
 </div>
