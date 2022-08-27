@@ -13,6 +13,6 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=NodesBlocks&show_icons=true&theme=nightowl"/>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NodesBlocks&layout=compact"/>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NodesBlocks&langs_count=8&layout=nightowl"/>
   </div>
 </div>
