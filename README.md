@@ -20,8 +20,12 @@
 <br />
 <br />
 <h3>Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powered by professional validators with best uptime and very low commissions rates for our clients. We are validator in different blockchains as Ethereum, Cosmos, Polkadot and running following testnets and mainnets:</h3>
-<br />
-<br />
+  </div>
+</div>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h2><i>T E S T N E T S</i></h2>
   </div>
 </div>
 
@@ -30,11 +34,11 @@
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>Sei</strong></span><br><br />
-            <img height="32px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/sei.png">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/sei.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Haqq</strong></span><br><br />
-            <img height="32" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/haqq.png">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/haqq.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Stride</strong></span><br><br />
@@ -63,8 +67,42 @@
         </tr>
     </tbody>
 </table>
-<br />
-<br />
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h2><i>M A I N N E T S</i></h2>
+  </div>
+</div>
+
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>Quicksilver</strong></span><br><br />
+            <img height="32px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/quicksilver.png">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Gravity</strong></span><br><br />
+            <img height="32" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/gravity.png">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Archway</strong></span><br><br />
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/archway.jpg">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Forta</strong></span><br><br />
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/forta.jpg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h2><i>G I T H U B &nbsp; S T A T S</i></h2>
+  </div>
+</div>
+
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=NodesBlocks&show_icons=true&theme=nightowl"/>
