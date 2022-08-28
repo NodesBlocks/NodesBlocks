@@ -20,7 +20,7 @@
 <h5><i>B E S T &nbsp; B L O C K S &nbsp; O R &nbsp; N O T H I N G</h5></i>
 <br />
 <br />
-<h3>Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powered by professional validators with best uptime and very low commissions rates for our clients. We are validator in different blockchains as Ethereum, Cosmos, Polkadot and running following mainnets and testnets:</h3>
+Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powered by professional validators with best uptime and very low commissions rates for our clients. We are validator in different blockchains as Ethereum, Cosmos, Polkadot and running following mainnets and testnets:
   </div>
 </div>
 
@@ -98,7 +98,7 @@
             </td>
             <td width="130px" align="center">
             <span><strong>Point</strong></span><br><br />
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/point.png">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/point.jpg">
             </td>
         </tr>
     </tbody>
