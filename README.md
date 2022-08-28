@@ -103,7 +103,9 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h2><i>C O N T A C T &nbsp; U S </i></h2>
-  <h3>𝑵𝒐𝒅𝒆𝒔𝑩𝒍𝒐𝒄𝒌𝒔 is also a validators private community on Discord</h3>
+  𝑵𝒐𝒅𝒆𝒔𝑩𝒍𝒐𝒄𝒌𝒔 owns a validators private community on Discord where we are focused on the research of the new projects <br />
+  You can join it but first you will need to prove your validator skills and respect requered conditions sending this form
+  <br />
   </div>
 </div>
 
