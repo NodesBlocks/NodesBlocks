@@ -28,38 +28,37 @@
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            <td width="130px" align="center">
+            <span><strong>Sei</strong></span><br><br />
+            <img height="32px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/sei.png">
             </td>
-            <td width="80px" align="center">
-            <span><strong>Java</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            <td width="130px" align="center">
+            <span><strong>Haqq</strong></span><br><br />
+            <img height="32" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/haqq.png">
             </td>
-            <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            <td width="130px" align="center">
+            <span><strong>Stride</strong></span><br><br />
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/stride.png">
             </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <td width="130px" align="center">
+            <span><strong>DWS</strong></span><br><br />
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/dws.png">
             </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            <td width="130px" align="center">
+            <span><strong>StafiHub</strong></span><br><br />
+            <img height="40pxx" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/stafihub.png">
             </td>
-            <td width="80px" align="center">
-            <span><strong>git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            <td width="130px" align="center">
+            <span><strong>Teritori</strong></span><br><br />
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/teritori.png">
             </td>
-            <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            <td width="80px" align="center">
-            <span><strong>Canva</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+            <td width="130px" align="center">
+            <span><strong>CardChain</strong></span><br><br />
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/cc.jpg">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Rebus</strong></span><br><br />
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/rebus.png">
             </td>
         </tr>
     </tbody>
