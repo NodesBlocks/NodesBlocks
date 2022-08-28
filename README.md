@@ -35,11 +35,11 @@
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>Quicksilver</strong></span><br><br />
-            <img height="32px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/quicksilver.png">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/quicksilver.jpg">
             </td>
             <td width="130px" align="center">
             <span><strong>Gravity</strong></span><br><br />
-            <img height="32" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/gravity.png">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/gravity.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Archway</strong></span><br><br />
@@ -112,11 +112,11 @@
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>Website</strong></span><br><br />
-            <img height="32px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/website.png">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/website.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Twitter</strong></span><br><br />
-            <img height="32" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/twitter.png">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/twitter.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Medium</strong></span><br><br />
