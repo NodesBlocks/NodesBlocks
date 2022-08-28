@@ -36,7 +36,7 @@
             <td width="130px" align="center">
             <span><strong>Sei</strong></span><br><br />
             <a href="https://sei.explorers.guru/validator/seivaloper1a6hnahtx6pctqdevjutks2g0cp2zwg4hmqf0du" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/sei.png">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/sei.png"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>Haqq</strong></span><br><br />
