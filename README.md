@@ -35,7 +35,7 @@
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>Quicksilver</strong></span><br><br />
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/quicksilver.jpg">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/quicksilver.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Gravity</strong></span><br><br />
