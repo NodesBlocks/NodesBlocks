@@ -96,6 +96,10 @@
             <span><strong>Rebus</strong></span><br><br />
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/rebus.png">
             </td>
+            <td width="130px" align="center">
+            <span><strong>Point</strong></span><br><br />
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/point.png">
+            </td>
         </tr>
     </tbody>
 </table>
@@ -105,6 +109,7 @@
   <h2><i>C O N T A C T &nbsp; U S </i></h2>
   𝑵𝒐𝒅𝒆𝒔𝑩𝒍𝒐𝒄𝒌𝒔 owns a validators private community on Discord where we are focused on the research of the new projects <br />
   You can join it but first you will need to prove your validator skills and respect requered conditions sending this form
+  <br />
   <br />
   </div>
 </div>
