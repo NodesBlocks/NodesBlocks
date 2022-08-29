@@ -35,18 +35,22 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>Quicksilver</strong></span><br><br />
+            <a href="https://quicksilver.explorers.guru/validator/quickvaloper12ytjmrvezqrd939ts4gy8vvcx2zlpctwfcmdg2" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/quicksilver.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Gravity</strong></span><br><br />
+            <a href="https://gravity.explorers.guru/validator/gravityvaloper1g5ammtxuvw0j77urnsfqvlajgfwsyc3rymamrz" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/gravity.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Archway</strong></span><br><br />
+            <a href="" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/archway.jpg">
             </td>
             <td width="130px" align="center">
             <span><strong>Forta</strong></span><br><br />
+            <a href="https://api.forta.network/stats/sla/scanner/0x493C3d948EcD106D077fD5C3bDA109CBE3fe6394" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/forta.jpg">
             </td>
         </tr>
@@ -70,34 +74,42 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             </td>
             <td width="130px" align="center">
             <span><strong>Haqq</strong></span><br><br />
+            <a href="https://explorer.nodestake.top/haqq-testedge/staking/haqqvaloper1aqfxfe3hewdna4h2mhhmg568v8ej97rklkmqzg" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/haqq.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Stride</strong></span><br><br />
+            <a href="https://stride.explorers.guru/validator/stridevaloper1dvgn8fjdnaze992h87vvnptsm4t36tm86eujqu" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/stride.png">
             </td>
             <td width="130px" align="center">
             <span><strong>DWS</strong></span><br><br />
+            <a href="https://dws.explorers.guru/validator/dewebvaloper1hylhclgykz6ee5klfgqwha59vwm2te7x02c5vg" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/dws.png">
             </td>
             <td width="130px" align="center">
             <span><strong>StafiHub</strong></span><br><br />
+            <a href="https://sei.explorers.guru/validator/seivaloper1a6hnahtx6pctqdevjutks2g0cp2zwg4hmqf0du" target="_blank" rel="noopener noreferrer">
             <img height="40pxx" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/stafihub.jpg">
             </td>
             <td width="130px" align="center">
             <span><strong>Teritori</strong></span><br><br />
+            <a href="https://teritori.explorers.guru/validator/torivaloper1frkk7h4dj9xcy960ll0eah2rhmfcptvg5em8f2" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/teritori.png">
             </td>
             <td width="130px" align="center">
             <span><strong>CardChain</strong></span><br><br />
+            <a href="https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper182n3e6uxvzj280v4jfmf0egpkqqenfyh2h5sm4" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/cc.jpg">
             </td>
             <td width="130px" align="center">
             <span><strong>Rebus</strong></span><br><br />
+            <a href="https://rebus.explorers.guru/validator/rebusvaloper1crh6hmvnedauqr63ejx2g5mclr6g79a246ue6u" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/rebus.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Point</strong></span><br><br />
+            <a href="http://e.trxlfsnxl.xyz/point/staking/evmosvaloper1wpvjh7qr8f9nxzugcjtrka8q4wvaxvn08hrj2w" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/point.jpg">
             </td>
         </tr>
@@ -119,22 +131,27 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>Website</strong></span><br><br />
+            <a href="https://www.nodesblocks.dev/" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/website.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Twitter</strong></span><br><br />
+            <a href="https://twitter.com/nodesblocks" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/twitter.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Medium</strong></span><br><br />
+            <a href="https://medium.com/@nodesblocks" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/medium.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Telegram</strong></span><br><br />
+            <a href="https://t.me/nodesblocks" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/telegram.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Discord</strong></span><br><br />
+            <a href="https://discord.gg/Mtp2c9BAJN" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/discord.png">
             </td>
         </tr>
