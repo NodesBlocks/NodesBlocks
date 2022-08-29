@@ -89,7 +89,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             </td>
             <td width="130px" align="center">
             <span><strong>StafiHub</strong></span><br><br />
-            <a href="https://sei.explorers.guru/validator/seivaloper1a6hnahtx6pctqdevjutks2g0cp2zwg4hmqf0du" target="_blank" rel="noopener noreferrer">
+            <a href="https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper1p2kq47zfpzl56pmrturr98evfe89t7jcetfeup" target="_blank" rel="noopener noreferrer">
             <img height="40pxx" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/stafihub.jpg">
             </td>
             <td width="130px" align="center">
