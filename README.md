@@ -1,5 +1,5 @@
 <img
-  src="https://i.ibb.co/Ws34ZkY/banner.jpg"
+  src="https://i.ibb.co/0KPM0tB/Nodes-Blocks-Twitter.png"
   title="banner"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
  
