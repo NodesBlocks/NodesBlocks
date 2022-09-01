@@ -39,6 +39,11 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/quicksilver.png">
             </td>
             <td width="130px" align="center">
+            <span><strong>Rebus</strong></span><br><br />
+            <a href="https://rebus.explorers.guru/validator/rebusvaloper1crh6hmvnedauqr63ejx2g5mclr6g79a246ue6u" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/rebus.png">
+            </td>
+            <td width="130px" align="center">
             <span><strong>Gravity</strong></span><br><br />
             <a href="https://gravity.explorers.guru/validator/gravityvaloper1g5ammtxuvw0j77urnsfqvlajgfwsyc3rymamrz" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/gravity.png">
@@ -101,11 +106,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <span><strong>CardChain</strong></span><br><br />
             <a href="https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper182n3e6uxvzj280v4jfmf0egpkqqenfyh2h5sm4" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/cc.jpg">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>Rebus</strong></span><br><br />
-            <a href="https://rebus.explorers.guru/validator/rebusvaloper1crh6hmvnedauqr63ejx2g5mclr6g79a246ue6u" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/rebus.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Point</strong></span><br><br />
