@@ -38,6 +38,11 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/quicksilver.png">
             </td>
             <td width="130px" align="center">
+            <span><strong>Stride</strong></span><br><br />
+            <a href="https://stride.explorers.guru/validator/stridevaloper1dvgn8fjdnaze992h87vvnptsm4t36tm86eujqu" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/stride.png">
+            </td>
+            <td width="130px" align="center">
             <span><strong>Rebus</strong></span><br><br />
             <a href="https://rebus.explorers.guru/validator/rebusvaloper1crh6hmvnedauqr63ejx2g5mclr6g79a246ue6u" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/rebus.png">
@@ -80,11 +85,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <span><strong>Haqq</strong></span><br><br />
             <a href="https://explorer.nodestake.top/haqq-testedge/staking/haqqvaloper1aqfxfe3hewdna4h2mhhmg568v8ej97rklkmqzg" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/haqq.png">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>Stride</strong></span><br><br />
-            <a href="https://stride.explorers.guru/validator/stridevaloper1dvgn8fjdnaze992h87vvnptsm4t36tm86eujqu" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/stride.png">
             </td>
             <td width="130px" align="center">
             <span><strong>DWS</strong></span><br><br />
