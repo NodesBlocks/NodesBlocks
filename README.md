@@ -84,9 +84,19 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/dws.png">
             </td>
             <td width="130px" align="center">
+            <span><strong>SSV</strong></span><br><br />
+            <a href="https://prater.beaconcha.in/validator/94cc1ebf9f546cc4ff7edd68465745f12cc882cadf1dbcdbef86c070e9afafca5056a58ec429036b804d21d47755d036#deposits" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/ssv.png">
+            </td>
+            <td width="130px" align="center">
             <span><strong>Teritori</strong></span><br><br />
             <a href="https://teritori.explorers.guru/validator/torivaloper1frkk7h4dj9xcy960ll0eah2rhmfcptvg5em8f2" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/teritori.png">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Obol</strong></span><br><br />
+            <a href="https://goerli.beaconcha.in/validator/0x8f1a9cedf718b0774bb92d15f6fbb898255eb42a2fef568123787c84f0ae71329b84f741695196799de57f1fce82d353#attestations" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/obol.png">
             </td>
         </tr>
     </tbody>
@@ -111,8 +121,8 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             </td>
             <td width="130px" align="center">
             <span><strong>Website</strong></span><br><br />
-            <a href="https://medium.com/@nodesblocks" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/website.png">
+            <a href="https://Website.com/@nodesblocks" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/NodesBlocks.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Telegram</strong></span><br><br />
