@@ -47,7 +47,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <td width="130px" align="center">
             <span><strong>Canto</strong></span><br><br />
             <a href="https://explorer.stake-take.com/canto/staking/cantovaloper16nt45ffzjks9dfrgmv5tnj2r98a6eu6yfn8jlv" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/canto.png">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/canto.jpg">
             </td>
             <td width="130px" align="center">
             <span><strong>Rebus</strong></span><br><br />
