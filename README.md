@@ -20,6 +20,7 @@
 <br />
 <br />
 Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powered by professional validators with best uptime and very low commissions rates for our clients. We are validator in different blockchains as Ethereum, Cosmos, Polkadot and running following mainnets and testnets:
+    <br />
   </div>
 </div>
 
@@ -56,11 +57,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <span><strong>Archway</strong></span><br><br />
             <a href="" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/archway.jpg">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>Forta</strong></span><br><br />
-            <a href="https://api.forta.network/stats/sla/scanner/0x493C3d948EcD106D077fD5C3bDA109CBE3fe6394" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/forta.jpg">
             </td>
         </tr>
     </tbody>
