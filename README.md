@@ -19,7 +19,7 @@
 <h5><i>B E S T &nbsp; B L O C K S &nbsp; O R &nbsp; N O T H I N G</h5></i>
 <br />
 <br />
-Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powered by professional validators with best uptime and very low commissions rates for our clients. We are validator in different blockchains as Ethereum, Cosmos, Polkadot and running following mainnets and testnets:
+Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powered by professional validators with best uptime and very low commission rate for our clients. We are validator in different blockchains as Ethereum, Cosmos, Polkadot and running following mainnets and testnets:
     <br />
     <br />
   </div>
