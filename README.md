@@ -52,7 +52,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <td width="130px" align="center">
             <span><strong>Tgrade</strong></span><br><br />
             <a href="https://dapp.tgrade.finance/validators" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/rebus.png">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/tgrade.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Gravity</strong></span><br><br />
