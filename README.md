@@ -44,7 +44,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             </td>
             <td width="130px" align="center">
             <span><strong>Rebus</strong></span><br><br />
-            <a href="https://rebus.explorers.guru/validator/rebusvaloper1crh6hmvnedauqr63ejx2g5mclr6g79a246ue6u" target="_blank" rel="noopener noreferrer">
+            <a href="https://rebus.explorers.guru/validator/rebusvaloper1cy9w3ptyc8t7gyy2ddtyxn5aj46wtz6fvxqk89" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/rebus.png">
             </td>
             <td width="130px" align="center">
