@@ -95,8 +95,8 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h2><i>C O N T A C T &nbsp; U S </i></h2>
-  𝑵𝒐𝒅𝒆𝒔𝑩𝒍𝒐𝒄𝒌𝒔 owns a validators private community on Discord where we are focused on the research of the new projects <br />
-  You can join it but first you will need to prove your validator skills and respect requered conditions sending this form
+  𝑵𝒐𝒅𝒆𝒔𝑩𝒍𝒐𝒄𝒌𝒔 owns a validators private community on Discord where all members are focused on the research of the new projects <br />
+  You can join us but first you will need to prove your validator skills sending this FORM and respect requered conditions if you're accepted
   <br />
   <br />
   </div>
