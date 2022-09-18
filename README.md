@@ -106,29 +106,19 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
-            <span><strong>Website</strong></span><br><br />
-            <a href="https://www.nodesblocks.dev/" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/website.png">
-            </td>
-            <td width="130px" align="center">
             <span><strong>Twitter</strong></span><br><br />
             <a href="https://twitter.com/nodesblocks" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/twitter.png">
             </td>
             <td width="130px" align="center">
-            <span><strong>Medium</strong></span><br><br />
+            <span><strong>Website</strong></span><br><br />
             <a href="https://medium.com/@nodesblocks" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/medium.png">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/website.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Telegram</strong></span><br><br />
             <a href="https://t.me/nodesblocks" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/telegram.png">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>Discord</strong></span><br><br />
-            <a href="https://discord.gg/Mtp2c9BAJN" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/discord.png">
             </td>
         </tr>
     </tbody>
