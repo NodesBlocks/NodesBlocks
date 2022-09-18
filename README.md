@@ -21,6 +21,7 @@
 <br />
 Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powered by professional validators with best uptime and very low commissions rates for our clients. We are validator in different blockchains as Ethereum, Cosmos, Polkadot and running following mainnets and testnets:
     <br />
+    <br />
   </div>
 </div>
 
@@ -76,11 +77,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <span><strong>Sei</strong></span><br><br />
             <a href="https://sei.explorers.guru/validator/seivaloper1a6hnahtx6pctqdevjutks2g0cp2zwg4hmqf0du" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/sei.png"> </a>
-            </td>
-            <td width="130px" align="center">
-            <span><strong>Haqq</strong></span><br><br />
-            <a href="https://explorer.nodestake.top/haqq-testedge/staking/haqqvaloper1aqfxfe3hewdna4h2mhhmg568v8ej97rklkmqzg" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/haqq.png">
             </td>
             <td width="130px" align="center">
             <span><strong>DWS</strong></span><br><br />
