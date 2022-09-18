@@ -121,7 +121,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             </td>
             <td width="130px" align="center">
             <span><strong>Website</strong></span><br><br />
-            <a href="https://Website.com/@nodesblocks" target="_blank" rel="noopener noreferrer">
+            <a href="https://nodesblocks.dev" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/NodesBlocks.png">
             </td>
             <td width="130px" align="center">
