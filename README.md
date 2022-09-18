@@ -92,24 +92,9 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/dws.png">
             </td>
             <td width="130px" align="center">
-            <span><strong>StafiHub</strong></span><br><br />
-            <a href="https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper1p2kq47zfpzl56pmrturr98evfe89t7jcetfeup" target="_blank" rel="noopener noreferrer">
-            <img height="40pxx" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/stafihub.jpg">
-            </td>
-            <td width="130px" align="center">
             <span><strong>Teritori</strong></span><br><br />
             <a href="https://teritori.explorers.guru/validator/torivaloper1frkk7h4dj9xcy960ll0eah2rhmfcptvg5em8f2" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/teritori.png">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>CardChain</strong></span><br><br />
-            <a href="https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper182n3e6uxvzj280v4jfmf0egpkqqenfyh2h5sm4" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/cc.jpg">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>Point</strong></span><br><br />
-            <a href="http://e.trxlfsnxl.xyz/point/staking/evmosvaloper1wpvjh7qr8f9nxzugcjtrka8q4wvaxvn08hrj2w" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/point.jpg">
             </td>
         </tr>
     </tbody>
