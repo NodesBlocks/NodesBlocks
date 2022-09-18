@@ -96,7 +96,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <td width="130px" align="center">
             <span><strong>Obol</strong></span><br><br />
             <a href="https://goerli.beaconcha.in/validator/0x8f1a9cedf718b0774bb92d15f6fbb898255eb42a2fef568123787c84f0ae71329b84f741695196799de57f1fce82d353#attestations" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/obol.jpg">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/obol.png">
             </td>
         </tr>
     </tbody>
