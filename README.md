@@ -50,6 +50,11 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/canto.jpg">
             </td>
             <td width="130px" align="center">
+            <span><strong>Teritori</strong></span><br><br />
+            <a href="https://teritori.explorers.guru/validator/torivaloper1frkk7h4dj9xcy960ll0eah2rhmfcptvg5em8f2" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/teritori.png">
+            </td>
+            <td width="130px" align="center">
             <span><strong>Rebus</strong></span><br><br />
             <a href="https://rebus.explorers.guru/validator/rebusvaloper1cy9w3ptyc8t7gyy2ddtyxn5aj46wtz6fvxqk89" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/rebus.png">
@@ -94,9 +99,9 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/ssv.png">
             </td>
             <td width="130px" align="center">
-            <span><strong>Teritori</strong></span><br><br />
-            <a href="https://teritori.explorers.guru/validator/torivaloper1frkk7h4dj9xcy960ll0eah2rhmfcptvg5em8f2" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/teritori.png">
+            <span><strong>Nois</strong></span><br><br />
+            <a href="https://explorer.nodestake.top/nois-testnet/staking/noisvaloper1twpzutsphys7hesr0mnpvcerjp0dryvxnmd8tp" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/nois.jpg">
             </td>
             <td width="130px" align="center">
             <span><strong>Obol</strong></span><br><br />
