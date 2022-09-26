@@ -155,7 +155,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <span><strong>Quasar</strong></span><br><br />
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/quasar.png">
             </td>
-
         </tr>
     </tbody>
 </table>
