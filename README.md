@@ -164,7 +164,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <span><strong>OLLO</strong></span><br><br />
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/ollo.png">
             </td>
-            </tr>
             <td width="130px" align="center">
             <span><strong>HyperSign</strong></span><br><br />
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/hypersign.jpg">
