@@ -99,6 +99,11 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/celestia.png">
             </td>
             <td width="130px" align="center">
+            <span><strong>Terp</strong></span><br><br />
+            <a href="" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/terp.jpg">
+            </td>
+            <td width="130px" align="center">
             <span><strong>SSV</strong></span><br><br />
             <a href="https://prater.beaconcha.in/validator/94cc1ebf9f546cc4ff7edd68465745f12cc882cadf1dbcdbef86c070e9afafca5056a58ec429036b804d21d47755d036#deposits" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/ssv.png">
@@ -154,6 +159,23 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <td width="130px" align="center">
             <span><strong>Quasar</strong></span><br><br />
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/quasar.png">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>OLLO</strong></span><br><br />
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/ollo.png">
+            </td>
+            </tr>
+            <td width="130px" align="center">
+            <span><strong>HyperSign</strong></span><br><br />
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/hypersign.jpg">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Quasar</strong></span><br><br />
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/quasar.png">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>OLLO</strong></span><br><br />
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/ollo.png">
             </td>
         </tr>
     </tbody>
