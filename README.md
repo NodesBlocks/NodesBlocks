@@ -189,7 +189,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             </td>
             <td width="130px" align="center">
             <span><strong>Andromeda</strong></span><br><br />
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/andromeda.png">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/andromeda.jpg">
             </td>
         </tr>
     </tbody>
