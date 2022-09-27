@@ -122,6 +122,22 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
     </tbody>
 </table>
 
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>HyperSign</strong></span><br><br />
+            <a href="" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/hypersign.jpg">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>OLLO</strong></span><br><br />
+            <a href="http://explorer.stavr.tech/ollo/staking/ollovaloper1hmzja7an6ggwvrlx8ljdyqayvktr7ee9pyzcds" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/ollo.png">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
@@ -137,8 +153,8 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/supernova.jpg"> </a>
             </td>
             <td width="130px" align="center">
-            <span><strong>OLLO</strong></span><br><br />
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/ollo.png">
+            <span><strong>Clan</strong></span><br><br />
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/clan.jpg">
             </td>
             <td width="130px" align="center">
             <span><strong>dYmension</strong></span><br><br />
@@ -151,10 +167,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <td width="130px" align="center">
             <span><strong>Nibiru</strong></span><br><br />
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/nibiru.jpg">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>HyperSign</strong></span><br><br />
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/hypersign.jpg">
             </td>
             <td width="130px" align="center">
             <span><strong>Quasar</strong></span><br><br />
