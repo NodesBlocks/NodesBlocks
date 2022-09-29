@@ -165,6 +165,10 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/stateset.jpg">
             </td>
             <td width="130px" align="center">
+            <span><strong>Uptick</strong></span><br><br />
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/uptick.jpg">
+            </td>
+            <td width="130px" align="center">
             <span><strong>Nibiru</strong></span><br><br />
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/nibiru.jpg">
             </td>
