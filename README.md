@@ -149,6 +149,10 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
+            <span><strong>Uptick</strong></span><br><br />
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/uptick.jpg">
+            </td>
+            <td width="130px" align="center">
             <span><strong>Supernova</strong></span><br><br />
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/supernova.jpg"> </a>
             </td>
@@ -163,10 +167,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <td width="130px" align="center">
             <span><strong>Stateset</strong></span><br><br />
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/stateset.jpg">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>Uptick</strong></span><br><br />
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/uptick.jpg">
             </td>
             <td width="130px" align="center">
             <span><strong>Nibiru</strong></span><br><br />
