@@ -100,7 +100,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             </td>
             <td width="130px" align="center">
             <span><strong>Terp</strong></span><br><br />
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.skynetexplorers.com/terpnetwork/staking/terpvaloper16wv569jztgh8e8g3sllfjyrfhejfj92tn39dje" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/terp.jpg">
             </td>
             <td width="130px" align="center">
