@@ -127,7 +127,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>HyperSign</strong></span><br><br />
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://explorer.nodestake.top/hypersign-testnet/staking/hidvaloper1sx863tt9kty8hffv5znwndkw82tv60a5658mkq" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/hypersign.jpg">
             </td>
             <td width="130px" align="center">
