@@ -135,6 +135,10 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <a href="http://explorer.stavr.tech/ollo/staking/ollovaloper1hmzja7an6ggwvrlx8ljdyqayvktr7ee9pyzcds" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/ollo.png">
             </td>
+            <td width="130px" align="center">
+            <span><strong>Empowerchain</strong></span><br><br />
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/empowerchain.jpg">
+            </td>  
         </tr>
     </tbody>
 </table>
@@ -183,10 +187,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
-            <td width="130px" align="center">
-            <span><strong>Empowerchain</strong></span><br><br />
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/empowerchain.jpg">
-            </td>
             <td width="130px" align="center">
             <span><strong>Saga</strong></span><br><br />
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/saga.jpg">
