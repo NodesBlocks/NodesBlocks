@@ -131,10 +131,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/hypersign.jpg">
             </td>
             <td width="130px" align="center">
-            <span><strong>Andromeda</strong></span><br><br />
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/andromeda.jpg">
-            </td>
-            <td width="130px" align="center">
             <span><strong>OLLO</strong></span><br><br />
             <a href="http://explorer.stavr.tech/ollo/staking/ollovaloper1hmzja7an6ggwvrlx8ljdyqayvktr7ee9pyzcds" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/ollo.png">
@@ -194,6 +190,10 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <td width="130px" align="center">
             <span><strong>Saga</strong></span><br><br />
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/saga.jpg">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Andromeda</strong></span><br><br />
+            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/andromeda.jpg">
             </td>
             <td width="130px" align="center">
             <span><strong>Aleo</strong></span><br><br />
