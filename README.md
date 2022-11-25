@@ -70,38 +70,28 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>Sei</strong></span><br><br />
-            <a href="https://testnet-explorer.brocha.in/sei%20atlantic-sub-2/staking/seivaloper1a6hnahtx6pctqdevjutks2g0cp2zwg4hmqf0du" target="_blank" rel="noopener noreferrer">
+            <a href="" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/sei.png"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>DWS</strong></span><br><br />
-            <a href="https://dws.explorers.guru/validator/dewebvaloper1hylhclgykz6ee5klfgqwha59vwm2te7x02c5vg" target="_blank" rel="noopener noreferrer">
+            <a href="" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/dws.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Celestia</strong></span><br><br />
-            <a href="https://dws.explorers.guru/validator/dewebvaloper1hylhclgykz6ee5klfgqwha59vwm2te7x02c5vg" target="_blank" rel="noopener noreferrer">
+            <a href="" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/celestia.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Terp</strong></span><br><br />
-            <a href="https://www.skynetexplorers.com/terpnetwork/staking/terpvaloper16wv569jztgh8e8g3sllfjyrfhejfj92tn39dje" target="_blank" rel="noopener noreferrer">
+            <a href="" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/terp.jpg">
             </td>
             <td width="130px" align="center">
-            <span><strong>SSV</strong></span><br><br />
-            <a href="https://prater.beaconcha.in/validator/94cc1ebf9f546cc4ff7edd68465745f12cc882cadf1dbcdbef86c070e9afafca5056a58ec429036b804d21d47755d036#deposits" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/ssv.png">
-            </td>
-            <td width="130px" align="center">
             <span><strong>Nois</strong></span><br><br />
-            <a href="https://explorer.nodestake.top/nois-testnet/staking/noisvaloper1twpzutsphys7hesr0mnpvcerjp0dryvxnmd8tp" target="_blank" rel="noopener noreferrer">
+            <a href="" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/nois.jpg">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>Obol</strong></span><br><br />
-            <a href="https://goerli.beaconcha.in/validator/0x8f1a9cedf718b0774bb92d15f6fbb898255eb42a2fef568123787c84f0ae71329b84f741695196799de57f1fce82d353#attestations" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/obol.png">
             </td>
         </tr>
     </tbody>
