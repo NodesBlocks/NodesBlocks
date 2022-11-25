@@ -45,11 +45,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/stride.png">
             </td>
             <td width="130px" align="center">
-            <span><strong>Canto</strong></span><br><br />
-            <a href="https://explorer.stake-take.com/canto/staking/cantovaloper16nt45ffzjks9dfrgmv5tnj2r98a6eu6yfn8jlv" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/canto.jpg">
-            </td>
-            <td width="130px" align="center">
             <span><strong>Teritori</strong></span><br><br />
             <a href="https://teritori.explorers.guru/validator/torivaloper1frkk7h4dj9xcy960ll0eah2rhmfcptvg5em8f2" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/teritori.png">
@@ -58,11 +53,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <span><strong>Rebus</strong></span><br><br />
             <a href="https://rebus.explorers.guru/validator/rebusvaloper1cy9w3ptyc8t7gyy2ddtyxn5aj46wtz6fvxqk89" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/rebus.png">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>Tgrade</strong></span><br><br />
-            <a href="https://dapp.tgrade.finance/validators" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/tgrade.png">
             </td>
         </tr>
     </tbody>
